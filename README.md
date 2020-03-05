@@ -1,8 +1,8 @@
 ## problems
 
-Search doesnt work because I couldnt figure out how to get the search query into the url <b>dynamically</b>
+The search doesnt work. I have yet to figure out how to pass query into url <b>dynamically</b>
 
-Flags not visible because I couldnt figure out how to use Glide with svg files
+Flags are not visible because I have yet to figure out how to use Glide with .svg.
 
 ## results
 
