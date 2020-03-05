@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d05ae4734d3331fb8c20a07b41369dcb\databinding-adapters-3.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\112ef91406833d4af6c42c25ee954571\databinding-runtime-3.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\44ba66d1c99bdb84473f9c98823b0a1a\navigation-ui-ktx-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\5def54935d933aa673bf0325c330cd8b\jetified-navigation-ui-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f03d325d5c4a98a5f40c8d0fa9cfa6f4\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\1fcebd12f434710e9da1b724dfc01fb5\preference-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\75b6526f5c6012d6639ef21fcd33b850\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\b350075547c4c83cb70444718b918d92\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d0c9249ce69140156ec814f149d448e2\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\695829bdf5207a11fc9ff2c6ba5b1ffd\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ce170d446786bf14a24c4b345f650fbf\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\367baa4f8a8abc573ff6f195efd117c4\navigation-fragment-ktx-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\3624caa38d298816ac79ab351190793d\fragment-ktx-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\2f32b7004eff5bfd5b40396296769ec8\activity-ktx-1.0.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\52f7cc3a4211ad5ab87171ca6f529b05\lifecycle-viewmodel-ktx-2.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\3415d15899733fac0a9fe228e522e7f1\rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7732a88ae2fdc234a432afd42ba38ede\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\098d5743bfd5c97ee5fabfbc22a96e2b\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\58f2d85d2e3eacf7ca05723855500c0b\lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\e3b01eda07d32b6538351c405956338c\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\35d87b86e334c82673ecf10a1d283450\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\25522a864679a327e8e71f41f8e0b591\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\5816af439f21cb6eb2a22c486e72f3cf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\757075628d27c32463b04c8e8df69bf1\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\60bfc905e8e17ca832e6531923ec2241\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7e0943cef6adbff010853bce2f07517e\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\0d946ac194b2c2040f021e9e5db6dc2d\navigation-fragment-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\babc031dfb6572aae241f575ff9a6fe5\fragment-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\07d84778379b5d1796fbe232b11c946d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c23fe40648291c5a916655a36cc94b12\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c6780354ffa8b5ae87ee692d7d03cf1f\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\71949c60f5dca79f9573aedd9d396127\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c1d112078b3d63f013332d2c7d7040d2\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\4565b22f7f778358f53c5da080e371e4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\8f1d48551d0ebba9be936135b9444196\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\1d299007fce39e8556b984a9f23890b3\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\8d763ccb2587339f761bc09632e7374e\navigation-runtime-ktx-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ad351af240208b5a778df8dd03df034a\navigation-runtime-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a6a7edf37859db04c5d476da554730cf\activity-1.0.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a1e5fae5da508862f79987e2a395b101\navigation-common-ktx-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f86ccdd1f2073582639e2e67986145cf\navigation-common-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ebd00e5adb8101ad827f64acd9a1221d\core-1.1.0-rc01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\2ee7dd97efd1ed028a3ff3c4393db699\lifecycle-runtime-2.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\dea23295e657a063bd3800fbebc2f061\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f380136f5a49b16247b5a6d779713839\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\b1a0af21128f6eddffb495d7f6b76ed7\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\43c7cbaf4c22d9544fa9b12511e45526\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\828f8d47c14e8d89493ed2c463e7f072\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7053c3a84a3ca0c2e802bb49ee483ae2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d46dc53412aa7ceef70d4057fb7421dc\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\4d8218fe92ac9ba7c203290c873532ea\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\0d195705a767a743c68b6e21a8c1b0e4\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\27feb8895d12f2f24d54678230040d94\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\be7b3063e38e450caa48386a6ab11f5c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\fb000c98979ab4d6d5c9f75be24ddbcc\lifecycle-viewmodel-2.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a34919304a305f4ceea8fef1b9396297\savedstate-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f03d325d5c4a98a5f40c8d0fa9cfa6f4\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f03d325d5c4a98a5f40c8d0fa9cfa6f4\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d0c9249ce69140156ec814f149d448e2\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d0c9249ce69140156ec814f149d448e2\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ce170d446786bf14a24c4b345f650fbf\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ce170d446786bf14a24c4b345f650fbf\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7732a88ae2fdc234a432afd42ba38ede\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7732a88ae2fdc234a432afd42ba38ede\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ebd00e5adb8101ad827f64acd9a1221d\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ebd00e5adb8101ad827f64acd9a1221d\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\dea23295e657a063bd3800fbebc2f061\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\dea23295e657a063bd3800fbebc2f061\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d46dc53412aa7ceef70d4057fb7421dc\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d46dc53412aa7ceef70d4057fb7421dc\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ebd00e5adb8101ad827f64acd9a1221d\core-1.1.0-rc01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.pokumars.countrylist.MainActivity
+ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d05ae4734d3331fb8c20a07b41369dcb\databinding-adapters-3.5.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d05ae4734d3331fb8c20a07b41369dcb\databinding-adapters-3.5.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\112ef91406833d4af6c42c25ee954571\databinding-runtime-3.5.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\112ef91406833d4af6c42c25ee954571\databinding-runtime-3.5.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\44ba66d1c99bdb84473f9c98823b0a1a\navigation-ui-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\44ba66d1c99bdb84473f9c98823b0a1a\navigation-ui-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\5def54935d933aa673bf0325c330cd8b\jetified-navigation-ui-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\5def54935d933aa673bf0325c330cd8b\jetified-navigation-ui-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f03d325d5c4a98a5f40c8d0fa9cfa6f4\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f03d325d5c4a98a5f40c8d0fa9cfa6f4\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\1fcebd12f434710e9da1b724dfc01fb5\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\1fcebd12f434710e9da1b724dfc01fb5\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\75b6526f5c6012d6639ef21fcd33b850\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\75b6526f5c6012d6639ef21fcd33b850\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\b350075547c4c83cb70444718b918d92\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\b350075547c4c83cb70444718b918d92\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d0c9249ce69140156ec814f149d448e2\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d0c9249ce69140156ec814f149d448e2\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\695829bdf5207a11fc9ff2c6ba5b1ffd\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\695829bdf5207a11fc9ff2c6ba5b1ffd\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ce170d446786bf14a24c4b345f650fbf\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ce170d446786bf14a24c4b345f650fbf\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\367baa4f8a8abc573ff6f195efd117c4\navigation-fragment-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\367baa4f8a8abc573ff6f195efd117c4\navigation-fragment-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\3624caa38d298816ac79ab351190793d\fragment-ktx-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\3624caa38d298816ac79ab351190793d\fragment-ktx-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\2f32b7004eff5bfd5b40396296769ec8\activity-ktx-1.0.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\2f32b7004eff5bfd5b40396296769ec8\activity-ktx-1.0.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\52f7cc3a4211ad5ab87171ca6f529b05\lifecycle-viewmodel-ktx-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\52f7cc3a4211ad5ab87171ca6f529b05\lifecycle-viewmodel-ktx-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\3415d15899733fac0a9fe228e522e7f1\rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\3415d15899733fac0a9fe228e522e7f1\rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7732a88ae2fdc234a432afd42ba38ede\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7732a88ae2fdc234a432afd42ba38ede\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\098d5743bfd5c97ee5fabfbc22a96e2b\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\098d5743bfd5c97ee5fabfbc22a96e2b\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\58f2d85d2e3eacf7ca05723855500c0b\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\58f2d85d2e3eacf7ca05723855500c0b\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\e3b01eda07d32b6538351c405956338c\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\e3b01eda07d32b6538351c405956338c\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\35d87b86e334c82673ecf10a1d283450\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\35d87b86e334c82673ecf10a1d283450\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\25522a864679a327e8e71f41f8e0b591\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\25522a864679a327e8e71f41f8e0b591\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\5816af439f21cb6eb2a22c486e72f3cf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\5816af439f21cb6eb2a22c486e72f3cf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\757075628d27c32463b04c8e8df69bf1\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\757075628d27c32463b04c8e8df69bf1\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\60bfc905e8e17ca832e6531923ec2241\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\60bfc905e8e17ca832e6531923ec2241\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7e0943cef6adbff010853bce2f07517e\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7e0943cef6adbff010853bce2f07517e\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\0d946ac194b2c2040f021e9e5db6dc2d\navigation-fragment-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\0d946ac194b2c2040f021e9e5db6dc2d\navigation-fragment-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\babc031dfb6572aae241f575ff9a6fe5\fragment-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\babc031dfb6572aae241f575ff9a6fe5\fragment-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\07d84778379b5d1796fbe232b11c946d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\07d84778379b5d1796fbe232b11c946d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c23fe40648291c5a916655a36cc94b12\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c23fe40648291c5a916655a36cc94b12\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c6780354ffa8b5ae87ee692d7d03cf1f\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c6780354ffa8b5ae87ee692d7d03cf1f\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\71949c60f5dca79f9573aedd9d396127\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\71949c60f5dca79f9573aedd9d396127\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c1d112078b3d63f013332d2c7d7040d2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\c1d112078b3d63f013332d2c7d7040d2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\4565b22f7f778358f53c5da080e371e4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\4565b22f7f778358f53c5da080e371e4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\8f1d48551d0ebba9be936135b9444196\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\8f1d48551d0ebba9be936135b9444196\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\1d299007fce39e8556b984a9f23890b3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\1d299007fce39e8556b984a9f23890b3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\8d763ccb2587339f761bc09632e7374e\navigation-runtime-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\8d763ccb2587339f761bc09632e7374e\navigation-runtime-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ad351af240208b5a778df8dd03df034a\navigation-runtime-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ad351af240208b5a778df8dd03df034a\navigation-runtime-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a6a7edf37859db04c5d476da554730cf\activity-1.0.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a6a7edf37859db04c5d476da554730cf\activity-1.0.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a1e5fae5da508862f79987e2a395b101\navigation-common-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a1e5fae5da508862f79987e2a395b101\navigation-common-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f86ccdd1f2073582639e2e67986145cf\navigation-common-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha05] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f86ccdd1f2073582639e2e67986145cf\navigation-common-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ebd00e5adb8101ad827f64acd9a1221d\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\ebd00e5adb8101ad827f64acd9a1221d\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\2ee7dd97efd1ed028a3ff3c4393db699\lifecycle-runtime-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\2ee7dd97efd1ed028a3ff3c4393db699\lifecycle-runtime-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\dea23295e657a063bd3800fbebc2f061\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\dea23295e657a063bd3800fbebc2f061\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f380136f5a49b16247b5a6d779713839\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\f380136f5a49b16247b5a6d779713839\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\b1a0af21128f6eddffb495d7f6b76ed7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\b1a0af21128f6eddffb495d7f6b76ed7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\43c7cbaf4c22d9544fa9b12511e45526\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\43c7cbaf4c22d9544fa9b12511e45526\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\828f8d47c14e8d89493ed2c463e7f072\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\828f8d47c14e8d89493ed2c463e7f072\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7053c3a84a3ca0c2e802bb49ee483ae2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\7053c3a84a3ca0c2e802bb49ee483ae2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d46dc53412aa7ceef70d4057fb7421dc\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\d46dc53412aa7ceef70d4057fb7421dc\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\4d8218fe92ac9ba7c203290c873532ea\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\4d8218fe92ac9ba7c203290c873532ea\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\0d195705a767a743c68b6e21a8c1b0e4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\0d195705a767a743c68b6e21a8c1b0e4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\27feb8895d12f2f24d54678230040d94\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\27feb8895d12f2f24d54678230040d94\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\be7b3063e38e450caa48386a6ab11f5c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\be7b3063e38e450caa48386a6ab11f5c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\fb000c98979ab4d6d5c9f75be24ddbcc\lifecycle-viewmodel-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\fb000c98979ab4d6d5c9f75be24ddbcc\lifecycle-viewmodel-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a34919304a305f4ceea8fef1b9396297\savedstate-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\a34919304a305f4ceea8fef1b9396297\savedstate-1.0.0-beta01\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ohene\Kotlin\ApplicationAssmts\CountryList\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ohene\.gradle\caches\transforms-2\files-2.1\bed74a44e5c747ed174aa64fbd1da9e3\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79

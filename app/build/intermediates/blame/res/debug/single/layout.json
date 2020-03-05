@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ohene\\Kotlin\\ApplicationAssmts\\CountryList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_country.xml",
+        "source": "C:\\Users\\ohene\\Kotlin\\ApplicationAssmts\\CountryList\\app\\src\\main\\res\\layout\\item_country.xml"
+    },
+    {
+        "merged": "C:\\Users\\ohene\\Kotlin\\ApplicationAssmts\\CountryList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\ohene\\Kotlin\\ApplicationAssmts\\CountryList\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ohene\\Kotlin\\ApplicationAssmts\\CountryList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\ohene\\Kotlin\\ApplicationAssmts\\CountryList\\app\\src\\main\\res\\layout\\fragment_detail.xml"
+    }
+]

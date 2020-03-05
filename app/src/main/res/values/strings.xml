@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CountryList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_data_error">An error occurred while loading data</string>
+
+    <string name="flag_content_description">country flag</string>
+
+    <string name="population">population- %1$s</string>
+    <string name="capital">Capital- %1$s</string>
+    <string name="call_code">Call code- + %1$s</string>
+    <string name="neighbors">Neighbors - %1$s</string>
+    <string name="web_domain">Web domain - %1$s</string>
+    <string name="demonym">Demonym - %1$s</string>
+
+</resources>
