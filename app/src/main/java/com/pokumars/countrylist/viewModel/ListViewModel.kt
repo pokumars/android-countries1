@@ -3,8 +3,6 @@ package com.pokumars.countrylist.viewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.pokumars.countrylist.model.Country
-import android.icu.lang.UCharacter.GraphemeClusterBreak.T
-import android.widget.Toast
 import com.pokumars.countrylist.model.CountriesApiService
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
@@ -13,6 +11,7 @@ import io.reactivex.schedulers.Schedulers
 
 
 class ListViewModel :ViewModel(){
+    //the data is fetched in this class
     private val countryService = CountriesApiService()
     //allows to get rid of data we no longer need; helps avoid memory leaks
     private val disposable = CompositeDisposable()

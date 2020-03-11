@@ -7,7 +7,6 @@ import com.pokumars.countrylist.model.Country
 class DetailViewModel: ViewModel() {
     val country = MutableLiveData<Country>()
 
-
     fun setCountryInViewmodel () {
         /*val country1 = Country("Colombia", listOf(".co"), listOf("57")," Bogota",
             "56468435","Colombian",  listOf("Bra","Arg", "Chi"),"123","")*/

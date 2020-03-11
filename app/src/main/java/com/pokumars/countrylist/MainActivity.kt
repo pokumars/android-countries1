@@ -8,6 +8,8 @@ import androidx.navigation.ui.NavigationUI
 
 class MainActivity : AppCompatActivity() {
 
+    //The nav controller hosts all the fragments we need and controls
+    // removal and addition of new fragmenst on to the navigation stack
     private lateinit var navController: NavController
 
     override fun onCreate(savedInstanceState: Bundle?) {

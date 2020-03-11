@@ -36,6 +36,8 @@ fun getProgressDrawable(context: Context): CircularProgressDrawable {
     }
 }
 
+//Here we create anew function to add unto Imageview that makes it use Glide and thus
+// we can add functionality to how the image loads
 fun ImageView.loadImage(uri: String?, progressDrawable: CircularProgressDrawable){
 
     val options = RequestOptions()

@@ -12,5 +12,4 @@ interface CountriesApi {
     @GET("rest/v2/region/Africa?fields=name;topLevelDomain;callingCodes;capital;population;demonym;borders;numericCode;flag")
     fun getAfricanCountries(): Single<List<Country>>
 
-
 }

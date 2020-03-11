@@ -29,14 +29,15 @@ class CountryListAdapter (val countryList: ArrayList<Country>): RecyclerView.Ada
     override fun getItemCount()=countryList.size
 
     override fun onBindViewHolder(holder: CountryViewHolder, position: Int) {
-        val cName=countryList[position].name
+        val theCountry = countryList[position]
 
-        val cNeighbors = "Neighbors: ${countryList[position].borders?.joinToString()}"
-        val cPopulation ="Population: ${countryList[position].population}"
-        val cDomain ="Web domain: ${countryList[position].topLevelDomain}"
-        val callCode = "Call code: +${countryList[position].callingCodes}"
-        val cCapital ="Capital: ${countryList[position].capital}"
-        val cDemonym ="Demonym: ${countryList[position].demonym}"
+        val cName=theCountry.name
+        val cNeighbors = "Neighbors: ${theCountry.borders?.joinToString()}"
+        val cPopulation ="Population: ${theCountry.population}"
+        val cDomain ="Web domain: \"${(theCountry.topLevelDomain)?.joinToString()}\""
+        val callCode = "Call code: +${theCountry.callingCodes?.joinToString()}"
+        val cCapital ="Capital: ${theCountry.capital}"
+        val cDemonym ="Demonym: ${theCountry.demonym}"
 
         holder.view.itemName.text = cName
         holder.view.itemCapitalCity.text = cCapital
